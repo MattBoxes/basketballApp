@@ -1,8 +1,9 @@
-package com.example.matt.basketbalapp
+package com.example.matt.basketbalapp.Controller
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
+import com.example.matt.basketbalapp.R
 
 open class BaseActivity : AppCompatActivity() {
 
